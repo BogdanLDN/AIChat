@@ -1,0 +1,1 @@
+Want to get started with AI development, but not sure where to start? I’ve got a treat for you – we have a new AI Chat Web App template now in preview. 😊 This template is part of our ongoing effort to make AI development with .NET easier to discover and use, with scaffolding and guidance within Visual Studio, Visual Studio Code, and the .NET CLI.
